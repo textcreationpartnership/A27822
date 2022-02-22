@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem upon the coronation by J. Baber ...</title>
+            <author>Baber, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27822</idno>
+            <idno type="STC">Wing B245</idno>
+            <idno type="STC">ESTC R3067</idno>
+            <idno type="EEBO-CITATION">13181331</idno>
+            <idno type="OCLC">ocm 13181331</idno>
+            <idno type="VID">98360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 445:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem upon the coronation by J. Baber ...</title>
+                  <author>Baber, John.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Everingham,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Coronation --  Poetry.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98360:1"/>
+            <pb facs="tcp:98360:1" rendition="simple:additions"/>
+            <p>A POEM upon the CORONATION.</p>
+            <p>By J. Baber Eſq;</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Everingham.</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98360:2"/>
+            <pb n="1" facs="tcp:98360:2"/>
+            <head>A POEM upon the CORONATION.</head>
+            <lg>
+               <l>LET the Globe mend its pace, Stars Stars puſh on,</l>
+               <l>Let Moons change quick, and <hi>Phoebus</hi> ſwifter run;</l>
+               <l>May the <hi>Thames</hi> faſter Ebb, and faſter Flow,</l>
+               <l>Let Nature her Concern for <hi>Britain</hi> ſhow,</l>
+               <l>Time whet his Scythe, to cut the Hours, which ſtay</l>
+               <l>The Glories of the <hi>CORONATION</hi> Day;</l>
+               <l>May the kind Skies lend aid, the Spring to dreſs,</l>
+               <l>And Trees in Early Bloſſoms Joys expreſs.</l>
+               <l>My Pulſe does with unuſual faſtneſs beat,</l>
+               <l>And ſhews Deſire impatient, as 'tis great!</l>
+               <l>Haſte, Glorious Morn! for <hi>Britain</hi>'s greedy Eyes</l>
+               <l>Will follow <hi>Phoſphor,</hi> till he quits the Skies.</l>
+               <l>With ſhouts and Acclamations, their Old Way,</l>
+               <l>The Multitude will their Allegiance pay.</l>
+               <l>The Loyal Souldiers of the Land and Seas</l>
+               <l>Their Joys ſhall oft repeat in loud Huzza's:</l>
+               <l>Extravagant Mirth be proper ev'ry where,</l>
+               <l>Philoſophers ſhall Bacchanals appear.</l>
+               <pb n="2" facs="tcp:98360:3"/>
+               <l>Oh <hi>Bacchus,</hi> how have I in Envy Thoſe,</l>
+               <l>Who loyal Hearts infus'd in Thee expos'd!</l>
+               <l>But I, ſpurr'd on by Importuning Muſe,</l>
+               <l>To ſhow my gladneſs, muſt my Credit loſe;</l>
+               <l>No Theme ſhall ever draw me in agen:</l>
+               <l>Heart once atone for my Tranſgreſſing Pen.</l>
+               <l>Hold, Muſe! forbear thoſe Joys to antedate,</l>
+               <l>Would you could the paſt Acts of <hi>JAMES</hi> relate,</l>
+               <l>His Valour for his Countries Glory ſhown,</l>
+               <l>His Love on much more nice occaſions known,</l>
+               <l>During our Civil Broils, diſtracted Rage,</l>
+               <l>How he retir'd, and choſe a Pilgrimage!</l>
+               <l>He did however with regret remove</l>
+               <l>From <hi>England,</hi> though unworthy of his Love.</l>
+               <l>Ev'n then his Thoughts were bent o'th' Kingdom's Good,</l>
+               <l>More than to ſeek his Adverſaries Blood:</l>
+               <l>Like the True Mother he reſigns his ſhare,</l>
+               <l>The Infants dear-beloved Life to ſpare;</l>
+               <l>The careleſs Whore mean while with all her heart</l>
+               <l>The Babe would ſever, to obtain a part:</l>
+               <l>So for our Peace, <hi>YORK</hi> ſometime ſtept aſide,</l>
+               <l>And Others ſtaid the Nation to divide.</l>
+               <l>Tell what, ſince <hi>Britain</hi>'s Monarch he's proclaim'd,</l>
+               <l>Is done, and how his Subjects Hearts are gain'd:</l>
+               <l>How All his Declaration did behold,</l>
+               <l>And wiſh'd it writ in Characters of Gold.</l>
+               <l>This Golden Days denotes; <hi>for, from his Mouth,</hi>
+               </l>
+               <l>
+                  <hi>Did ever fall Indubitable Truth?</hi>
+               </l>
+               <l>Safely on him may <hi>England</hi>'s Church depend,</l>
+               <l>Pious he is, and will the Faith defend:</l>
+               <l>The Faith I mean of our Progenitors,</l>
+               <l>We by our Practice ſcarce can call it Ours;</l>
+               <pb n="3" facs="tcp:98360:3"/>
+               <l>That Faith and Loyalty go hand in hand,</l>
+               <l>And thus united ſhall Hells Gates withſtand.</l>
+               <l>All who to be True Chriſtians do profeſs,</l>
+               <l>To you, Great Sir, muſt ſay with thankfulneſs,</l>
+               <l>Your Sacred Word our Faith's defence ſecures.</l>
+               <l>And now <hi>Jove's</hi> ſafety does conſiſt in Yours.</l>
+               <l>More than Religion, fam'd for Liberty,</l>
+               <l>
+                  <hi>England</hi>'s pronounc'd, as in paſt Ages, free;</l>
+               <l>The Laws with force attacque, whoever dare,</l>
+               <l>Your Self, their Second, in the Fight declare;</l>
+               <l>Thus when you of our Laws protection take,</l>
+               <l>You chuſe the ſame which you your ſelf would make.</l>
+               <l>They dream of Safety, who rely on Laws,</l>
+               <l>For few are perfect, clear, and void of Flaws.</l>
+               <l>Some with Obſcurity, ſome Doubts abound,</l>
+               <l>Some were deſign'd to puzzle and confound;</l>
+               <l>But <hi>JAMES</hi>'s Justice all Defects ſupplies,</l>
+               <l>And he ſleeps ſafely, who on him relies.</l>
+               <l>His Conquering Juſtice, when he takes the Field,</l>
+               <l>Muſt make his Enemies, like Subjects yield,</l>
+               <l>By that to him, the Univerſe muſt own,</l>
+               <l>A Right to Victory as to his Crown.</l>
+               <l>What, though his Genius him to Arms incite,</l>
+               <l>His Prudence can diſpoſe the time to fight,</l>
+               <l>That Prudence which a ſettled Government,</l>
+               <l>Has now contriv'd, and gave the Land content,</l>
+               <l>That of his Treaſury himſelf takes care,</l>
+               <l>And does his Subjects Blood, and Subſtance ſpare,</l>
+               <l>To Us a Father's Tenderneſs he ſhows</l>
+               <l>That All Things he inſpects, and All Things knows.</l>
+               <l>Kings that have juſt took pains, to view about,</l>
+               <l>And able Miniſters by chance pick out,</l>
+               <pb n="4" facs="tcp:98360:4"/>
+               <l>Have on the Toils of Servants, built their Fame;</l>
+               <l>By his own Labours <hi>JAMES</hi> makes known his Name.</l>
+               <l>The Miniſter grows almoſt out of date,</l>
+               <l>He Supervizes Judge, and Magiſtrate,</l>
+               <l>And bears alone the Burthen of the State.</l>
+               <l>Factions, and Plots he'll in their Bud defeat,</l>
+               <l>Tares ſhall no more ſpring up amongſt the Wheat.</l>
+               <l>Nor can his lofty, vaſt, unbounded Mind</l>
+               <l>To rule his Kingdoms only be confin'd,</l>
+               <l>His Vigilance does o're the Main extend,</l>
+               <l>And th' Ocean in his Thoughts does comprehend.</l>
+               <l>He Admiral becomes, no leſs than King,</l>
+               <l>And him you'd preſent judge at Ev'ry Thing.</l>
+               <l>For ſome great End it was, no doubt, that Fate</l>
+               <l>So ſoon to Heaven did mighty <hi>CHARLES</hi> tranſlate,</l>
+               <l>Whoſe Health, and Vigor, did the world beguile,</l>
+               <l>With hopes that he ſhould longer Rule this Iſle;</l>
+               <l>But now we find this ſudden Work was done</l>
+               <l>To place great <hi>JAMES</hi> upon his Queſtion'd Throne,</l>
+               <l>Rebellion to ſubdue, and thoſe confute</l>
+               <l>That dar'd about the Crown's Deſcent diſpute,</l>
+               <l>To lay 'em proſtrate, ſolemnly to own</l>
+               <l>Thy Title they conteſted to the Crown.</l>
+               <l>Theſe had affirm'd, ſhould <hi>CHARLES</hi> have you ſurviv'd,</l>
+               <l>To Reign in Peace you ne're could have arriv'd,</l>
+               <l>And that their Bill had been a flaming Sword</l>
+               <l>To guard the Throne from you their Lawful Lord,</l>
+               <l>Poſterity intending to delude</l>
+               <l>With compaſt Projects, which were but purſu'd.</l>
+               <l>Let a long Reign the Contrary evince,</l>
+               <l>Make us, Sir, underſtand who makes our Prince,</l>
+               <l>Make Heaven's Will be better underſtood,</l>
+               <l>The Crown's Deſcent, Proximity of Blood,</l>
+               <pb n="5" facs="tcp:98360:4"/>
+               <l>The word, <hi>Succeſſion,</hi> with reſerve to uſe,</l>
+               <l>As was <hi>Jehova</hi>'s Name by Pious <hi>Jews,</hi>
+               </l>
+               <l>Thoſe whoſe <hi>Icarian</hi> boldneſs ſoar'd ſo high,</l>
+               <l>With melted Wings (which nearer Earth could fly)</l>
+               <l>By Royal Beams, came tumbling from the Sky.</l>
+               <l>Crown'd with one King more Virtues ne're were ſeen,</l>
+               <l>Never ſo many Graces in one Queen,</l>
+               <l>Whoſe Beauty to deſcribe Attempts were always weak,</l>
+               <l>Nor ſhall I on that Subject ſilence break;</l>
+               <l>Where <hi>Laureats</hi> have of Juſt Deſcription fail'd,</l>
+               <l>That Theme by Verſe ſhould be no more Aſſail'd.</l>
+               <l>
+                  <hi>Taſſo</hi> the Poet of your Ancient Line,</l>
+               <l>Were he alive, this Subject muſt decline,</l>
+               <l>With me confeſs, who am diſcourag'd quite,</l>
+               <l>'Tis to your diſadvantage all men write.</l>
+               <l>In Hiſtory it never did appear</l>
+               <l>Where King and Conſort better coupled were,</l>
+               <l>How oft are Kings with homely Perſons catcht?</l>
+               <l>They Married are indeed, but ye are matcht.</l>
+               <l>And may your God-like Perſons, many more</l>
+               <l>Years Reign together, than ye liv'd before:</l>
+               <l>Our Hopes are great, but I ſhall little ſay</l>
+               <l>Of Sons, from you, which ſhall great <hi>Britain</hi> ſway.</l>
+               <l>Next ye</l>
+               <l>The Greateſt Chriſtian Princes on the Earth,</l>
+               <l>Expected twenty years a <hi>Dauphin</hi>'s Birth,</l>
+               <l>And ſince the Greatneſs of his conquering Fame,</l>
+               <l>Shews, Heaven does take more Time, a King to frame</l>
+               <l>Than other Men. Then <hi>Britain</hi> can't deſpair</l>
+               <l>'Twixt ſuch a Couple in due Time an Heir.</l>
+               <l>Mean while her preſent Happineſs all Tongues muſt ſing,</l>
+               <l>The Greateſt Subject <hi>JAMES</hi> become the Greateſt King.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
